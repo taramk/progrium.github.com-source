@@ -17,5 +17,5 @@ There are a few other projects being developed to support Dokku and expand its f
 
 For now, here's a screencast that shows how to set up Dokku, along with a quick walk-through of the code.
 
-<iframe src="http://player.vimeo.com/video/68631325" width="700" height="394" frameborder="0" webkitAllowFullScreen="webkitAllowFullScreen" mozallowfullscreen="mozallowfullscreen" allowFullScreen="allowFullScreen">No iFrames?</iframe>
+<div class="video-wrapper"><iframe src="http://player.vimeo.com/video/68631325" width="700" height="394" frameborder="0" webkitAllowFullScreen="webkitAllowFullScreen" mozallowfullscreen="mozallowfullscreen" allowFullScreen="allowFullScreen">No iFrames?</iframe></div>
 
